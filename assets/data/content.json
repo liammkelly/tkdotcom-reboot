@@ -1,0 +1,129 @@
+[
+
+    {
+        "id":     1,
+        "img":    "Gallatin2flags.jpg",
+	"description":"Outdoor signage&nbsp;&nbsp;|&nbsp;&nbsp;Print&nbsp;&nbsp;|&nbsp;&nbsp;Designed flags&nbsp;&nbsp;|&nbsp;&nbsp;The Albert Gallatin at Harvard Symposium&nbsp;&nbsp;|&nbsp;&nbsp;Loeb House&nbsp;&nbsp;|&nbsp;&nbsp;Harvard Faculty Club"
+    },
+
+    {
+        "id":     2,
+        "img":    "GallatinEntrance.jpg",
+	"description":"Event branding&nbsp;&nbsp;|&nbsp;&nbsp;Signage&nbsp;&nbsp;|&nbsp;&nbsp;Print&nbsp;&nbsp;|&nbsp;&nbsp;Large poster&nbsp;&nbsp;|&nbsp;&nbsp;The Albert Gallatin at Harvard Symposium&nbsp;&nbsp;|&nbsp;&nbsp;Loeb House lobby"
+    },
+
+    {
+        "id":     3,
+        "img":    "GallatinHFC.jpg",
+	"description":"Event branding&nbsp;&nbsp;|&nbsp;&nbsp;Signage&nbsp;&nbsp;|&nbsp;&nbsp;Large poster&nbsp;&nbsp;|&nbsp;&nbsp;The Albert Gallatin at Harvard Symposium&nbsp;&nbsp;|&nbsp;&nbsp;Harvard Faculty Club lobby"
+    },
+
+    {
+        "id":     4,
+        "img":    "GallatinPosterStatue.jpg",
+	"description":"Event branding&nbsp;&nbsp;|&nbsp;&nbsp;Signage&nbsp;&nbsp;|&nbsp;&nbsp;Print&nbsp;&nbsp;|&nbsp;&nbsp;Poster and 4' statue&nbsp;&nbsp;|&nbsp;&nbsp;The Albert Gallatin at Harvard Symposium&nbsp;&nbsp;|&nbsp;&nbsp;Loeb House lobby"
+    },
+
+    {
+        "id":     5,
+        "img":    "GallatinResponsive.jpg",
+	"description":"Responsive Web Design (RWD)&nbsp;&nbsp;|&nbsp;&nbsp;Breakpoints&nbsp;&nbsp;|&nbsp;&nbsp;UI/UX&nbsp;&nbsp;|&nbsp;&nbsp;Single-page site&nbsp;&nbsp;|&nbsp;&nbsp;The Albert Gallatin at Harvard Symposium"
+    },
+
+    {
+        "id":     6,
+        "img":    "GallatinProgramInside.jpg",
+	"description":"Print&nbsp;&nbsp;|&nbsp;&nbsp;Magazine design&nbsp;&nbsp;|&nbsp;&nbsp;Ad and content layout&nbsp;&nbsp;|&nbsp;&nbsp;Typography&nbsp;&nbsp;|&nbsp;&nbsp;The Albert Gallatin at Harvard Symposium"
+    },
+
+
+ {
+        "id":     7,
+        "img":    "PfizerPoster.jpg",
+	"description":"Event branding&nbsp;&nbsp;|&nbsp;&nbsp;Signage&nbsp;&nbsp;|&nbsp;&nbsp;Large poster&nbsp;&nbsp;|&nbsp;&nbsp;Pfizer&nbsp;&nbsp;|&nbsp;&nbsp;HBS&nbsp;&nbsp;|&nbsp;&nbsp;Healthcare Industry&nbsp;&nbsp;|&nbsp;&nbsp;The Joseph B. Martin Center"
+    },
+
+ {
+        "id":     8,
+        "img":    "PfizerMedly.jpg",
+	"description":"Event branding&nbsp;&nbsp;|&nbsp;&nbsp;Signage&nbsp;&nbsp;|&nbsp;&nbsp;Posters and magazine&nbsp;&nbsp;|&nbsp;&nbsp;Pfizer&nbsp;&nbsp;|&nbsp;&nbsp;HBS&nbsp;&nbsp;|&nbsp;&nbsp;Healthcare Industry&nbsp;&nbsp;|&nbsp;&nbsp;The Joseph B. Martin Center"
+    },
+
+ {
+        "id":     9,
+        "img":    "PfizerProgram.jpg",
+	"description":"Print&nbsp;&nbsp;|&nbsp;&nbsp;Magazine design&nbsp;&nbsp;|&nbsp;&nbsp;Ad and content layout&nbsp;&nbsp;|&nbsp;&nbsp;Typography&nbsp;&nbsp;|&nbsp;&nbsp;Pfizer&nbsp;&nbsp;|&nbsp;&nbsp;HBS&nbsp;&nbsp;|&nbsp;&nbsp;Healthcare Industry"
+    },
+
+ {
+        "id":     10,
+        "img":    "PfizerPrezi.jpg",
+	"description":"Event branding&nbsp;&nbsp;|&nbsp;&nbsp;Prezi&nbsp;&nbsp;|&nbsp;&nbsp;Multimedia presentation&nbsp;&nbsp;|&nbsp;&nbsp;Pfizer&nbsp;&nbsp;|&nbsp;&nbsp;HBS&nbsp;&nbsp;|&nbsp;&nbsp;Healthcare Industry&nbsp;&nbsp;|&nbsp;&nbsp;The Joseph B. Martin Center"
+    },
+
+ {
+        "id":     11,
+        "img":    "PfizerSpeakerLooking.jpg",
+	"description":"Event branding&nbsp;&nbsp;|&nbsp;&nbsp;Signage&nbsp;&nbsp;|&nbsp;&nbsp;Large poster&nbsp;&nbsp;|&nbsp;&nbsp;Pfizer&nbsp;&nbsp;|&nbsp;&nbsp;HBS&nbsp;&nbsp;|&nbsp;&nbsp;Healthcare Industry&nbsp;&nbsp;|&nbsp;&nbsp;The Joseph B. Martin Center"
+    },
+
+ {
+        "id":     12,
+        "img":    "HBSCharlesHotelSite.jpg",
+	"description":"Website design&nbsp;&nbsp;|&nbsp;&nbsp;Slideshow&nbsp;&nbsp;|&nbsp;&nbsp;Event branding&nbsp;&nbsp;|&nbsp;&nbsp;HBS Health Industry Alumni Conference&nbsp;&nbsp;|&nbsp;&nbsp;The Charles Hotel"
+    },
+
+ {
+        "id":     13,
+        "img":    "HBSCharlesHotelPrint.jpg",
+    "description":"Print&nbsp;&nbsp;|&nbsp;&nbsp;Magazine design&nbsp;&nbsp;|&nbsp;&nbsp;Ad and content layout&nbsp;&nbsp;|&nbsp;&nbsp;Typography&nbsp;&nbsp;|&nbsp;&nbsp;HBS Health Industry Alumni Conference&nbsp;&nbsp;|&nbsp;&nbsp;The Charles Hotel"
+    },
+
+ {
+        "id":     14,
+        "img":    "HBSCharlesHotelMedly.jpg",
+	"description":"Event branding&nbsp;&nbsp;|&nbsp;&nbsp;Flash presentation&nbsp;&nbsp;|&nbsp;&nbsp;Posters and magazine&nbsp;&nbsp;|&nbsp;&nbsp;HBS Health Industry Alumni Conference&nbsp;&nbsp;|&nbsp;&nbsp;The Charles Hotel"
+    },
+
+ {
+        "id":     15,
+        "img":    "HBSad.jpg",
+	"description":"Print advertisement&nbsp;&nbsp;|&nbsp;&nbsp;Brand Marketing&nbsp;&nbsp;|&nbsp;&nbsp;Typography&nbsp;&nbsp;|&nbsp;&nbsp;HBS Health Industry Alumni Conference&nbsp;&nbsp;|&nbsp;&nbsp;The Charles Hotel"
+    },
+
+{
+        "id":     16,
+        "img":    "HBShcaa1.jpg",
+	"description":"Logo creation&nbsp;&nbsp;|&nbsp;&nbsp;Website design&nbsp;&nbsp;|&nbsp;&nbsp;Brand adherence&nbsp;&nbsp;|&nbsp;&nbsp;User experience&nbsp;&nbsp;|&nbsp;&nbsp;HBS Healthcare Alumni Association"
+    },
+
+{
+        "id":     17,
+        "img":    "BlueVellumSite.jpg",
+	"description":"Website design&nbsp;&nbsp;|&nbsp;&nbsp;E-commerce&nbsp;&nbsp;|&nbsp;&nbsp;User Experience&nbsp;&nbsp;|&nbsp;&nbsp;Logo and branding&nbsp;&nbsp;|&nbsp;&nbsp;Wedding invitations&nbsp;&nbsp;|&nbsp;&nbsp;Blue Vellum"
+    },
+
+{
+        "id":     18,
+        "img":    "BlueVellumInvitations.jpg",
+	"description":"Packaging design&nbsp;&nbsp;|&nbsp;&nbsp;Retail&nbsp;&nbsp;|&nbsp;&nbsp;Print&nbsp;&nbsp;|&nbsp;&nbsp;Papers&nbsp;&nbsp;|&nbsp;&nbsp;Textures&nbsp;&nbsp;|&nbsp;&nbsp;Typography&nbsp;&nbsp;|&nbsp;&nbsp;Wedding invitations&nbsp;&nbsp;|&nbsp;&nbsp;Blue Vellum"
+    },
+
+{
+        "id":     19,
+        "img":    "Pagona.jpg",
+    "description":"Book cover layout&nbsp;&nbsp;|&nbsp;&nbsp;E-book design&nbsp;&nbsp;|&nbsp;&nbsp;Typography&nbsp;&nbsp;|&nbsp;&nbsp;Soul Ingredients&nbsp;&nbsp;|&nbsp;&nbsp;Pagona, HHC, M.Ac, GAPS&trade;"
+    },
+
+{
+        "id":     20,
+        "img":    "HCPEA.jpg",
+	"description":"E-mail marketing campaign&nbsp;&nbsp;|&nbsp;&nbsp;Designed header and footer elements&nbsp;&nbsp;|&nbsp;&nbsp;Template&nbsp;&nbsp;|&nbsp;&nbsp;Healthcare Private Equity Association  "
+    },
+
+{
+        "id":     21,
+        "img":    "MBNAbrochure.jpg",
+	"description":"Brochure layout and design&nbsp;&nbsp;|&nbsp;&nbsp;Tri-fold pamphlet&nbsp;&nbsp;|&nbsp;&nbsp;Print&nbsp;&nbsp;|&nbsp;&nbsp;Brand adherence&nbsp;&nbsp;|&nbsp;&nbsp;MBNA America"
+    }
+]

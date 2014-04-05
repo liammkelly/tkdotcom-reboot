@@ -15,13 +15,13 @@ BODY {
 
 #floating-logo {
     position:           absolute;
-    left:               87;
+    left:               166;
     top:                0;
     width:              102px;
     height:             191px;
-    background-image:   url(../images/tal-logo.png);
+    background-image:   url(../images/tal-logo.jpg);
     background-repeat:  no-repeat;
-    z-index:            10;
+    z-index:            100;
 }
 
 #main-area {
@@ -30,9 +30,9 @@ BODY {
 }
 #header-area {
     width:              955px;
-    height:             138px;
+    height:             137px;
     margin:             0 0 0 70px;
-    background-image:   url(../images/tkdc-header.png);
+    background-image:   url(../images/tkdc-header.jpg);
     background-repeat:  no-repeat;
 }
 #right-area {
@@ -45,19 +45,40 @@ BODY {
     width:              100%;
     height:             40px;
 }
+#description {
+    width:              859px;
+    color:              #6CC;
+    font-size:          14px;
+    font-family:        Arial, Helvetica, sans-serif;
+    padding:            14.5px 0 0 0;
+    margin:             0 0 0 166px;
+    text-align:         justify;
+}
 
 .control {
     width:              38px;
     height:             100px;
     position:           absolute;
     top:                395;
-    z-index:            11;
+    z-index:            1000;
+}
+.control IMG {
+    width:              38px;
+    height:             100px;
 }
 .control#prev {
-    background-image:   url(../images/LeftButton.gif);
     left:               30;
 }
 .control#next {
-    background-image:   url(../images/RightButton.gif);
     left:               955;
+}
+
+/* "full justify single line" hack */
+.fulljustify {
+  text-align:           justify;
+}
+.fulljustify:after {
+  content:              "";
+  display:              inline-block;
+  width:                100%;
 }
