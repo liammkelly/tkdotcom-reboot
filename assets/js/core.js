@@ -8,6 +8,14 @@ $().ready( function() {
         isOrdered = false,
         slideId;
 
+    // make console logging safe
+    if (typeof console === "undefined"){
+        console={};
+        console.log = function(){
+            return;
+        }
+    };
+
     $('#art-area').hover(
         function() {
             $('.control').fadeIn();
@@ -81,8 +89,6 @@ $().ready( function() {
     function onAfter(currSlideElement, nextSlideElement, options, forwardFlag) {
         var curr = $(nextSlideElement)[0];
         slideId = parseInt( curr.id.split('_')[1] );
-
-        console.info('current slide is',slideId);
 
         // show description
         $('#description').html( getDescription(slideId) );

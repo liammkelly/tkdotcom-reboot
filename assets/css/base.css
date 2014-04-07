@@ -1,13 +1,13 @@
 BODY {
     margin:             0;
-    background-image:   url(../images/Bkgd.gif);
+    background-image:   url(../images/Bkgd2.gif);
     background-repeat:  repeat-x;
 }
 
 #body-area {
     float:              left;
     width:              1338px;
-    height:             1400px;
+    height:             900px;
 }
 #body-area DIV {
     float:              left;
@@ -15,8 +15,8 @@ BODY {
 
 #floating-logo {
     position:           absolute;
-    left:               166;
-    top:                0;
+    left:               166px;
+    top:                0px;
     width:              102px;
     height:             191px;
     background-image:   url(../images/tal-logo.jpg);
@@ -32,8 +32,19 @@ BODY {
     width:              955px;
     height:             137px;
     margin:             0 0 0 70px;
-    background-image:   url(../images/tkdc-header.jpg);
+    background-image:   url(../images/tkdc-header2.jpg);
     background-repeat:  no-repeat;
+}
+#email-link {
+    position:           absolute;
+    left:               550px;
+    top:                88px;
+    width:              145px;
+    height:             22px;
+}
+#email-link A {
+    display:            block;
+    text-decoration:    none;
 }
 #right-area {
     width:              313px;
@@ -59,7 +70,7 @@ BODY {
     width:              38px;
     height:             100px;
     position:           absolute;
-    top:                395;
+    top:                395px;
     z-index:            1000;
 }
 .control IMG {
@@ -67,10 +78,10 @@ BODY {
     height:             100px;
 }
 .control#prev {
-    left:               30;
+    left:               30px;
 }
 .control#next {
-    left:               955;
+    left:               955px;
 }
 
 /* "full justify single line" hack */

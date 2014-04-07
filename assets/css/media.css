@@ -1,0 +1,11 @@
+@import url('base.css') screen;
+
+/* PORTRAIT PHONE */
+/* @import url('portrait_phone.css') screen and (max-width : 320px) and (orientation: portrait); */
+/* LANDSCAPE PHONE */
+/* @import url('landscape_phone.css') screen and (min-width : 321px) and (max-width : 640px); */
+/* PORTRAIT IPAD */
+/* @import url('portrait_tablet.css') screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait); */
+/* LANDSCAPE IPAD */
+@import url('landscape_tablet.css') screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape);
+
